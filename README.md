@@ -1,5 +1,7 @@
 # yes_no_app
 
+[![Flutter](https://github.com/ysaacnoa/yes_no_app/actions/workflows/flutter.yml/badge.svg?branch=main)](https://github.com/ysaacnoa/yes_no_app/actions/workflows/flutter.yml)
+
 A new Flutter project.
 
 ## Getting Started
